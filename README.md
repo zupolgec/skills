@@ -17,6 +17,7 @@ npx skills add zupolgec/skills@skill-name
 | Skill | Description |
 |-------|-------------|
 | [qontoctl](qontoctl/) | Manage Qonto business banking — accounts, transactions, transfers, invoices, quotes, and more |
+| [unifi](unifi/) | Manage UniFi Network consoles — devices, clients, networks, WiFi, firewall, NAT and port forwarding — via the official API and restish |
 
 ## Creating a new skill
 
